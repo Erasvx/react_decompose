@@ -20,8 +20,8 @@
 
 @media (min-width: 500px) {
   .article {
-    margin: 3.5em auto 0;
-    padding: 78.4px;
+    margin: 3.5em auto;
+    padding: 2em;
   }
 }
 
